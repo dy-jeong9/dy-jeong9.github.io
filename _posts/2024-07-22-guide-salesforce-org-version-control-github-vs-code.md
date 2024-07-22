@@ -1,5 +1,5 @@
 ---
-title: 초보자를 위한 VS Code와 세일즈포스 ORG 연결 가이드
+title: 깃허브로 세일즈포스 Org 형상 관리하기 가이드(VS Code)
 author: Dynamo J
 date: 2024-07-22 22:34:00 +0900
 categories: [Salesforce, Github]
